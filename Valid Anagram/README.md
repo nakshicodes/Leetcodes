@@ -2,7 +2,7 @@
 
 Given two strings `s` and `t`, return `true` if `t` is an anagram of `s` (contains the same letters, the same number of times, just rearranged), and `false` otherwise.
 
-**Files:** [`myTrialSolution1.py`](myTrialSolution1.py) · [`myTrialSolution2.py`](myTrialSolution2.py) · [`workingSolution1.py`](WorkingSolution1.py) · [`workingSolution2&3.py`](workingSolution2%263.py)
+**Files:** [`myTrialSolution1.py`](myTrialSolution1.py) · [`myTrialSolution2.py`](myTrialSolution2.py) · [`workingSolution1.py`](WorkingSolution1.py) · [`workingSolution2&3.py`](workingSolution2&3.py)
 
 ---
 
