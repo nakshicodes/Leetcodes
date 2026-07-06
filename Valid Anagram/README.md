@@ -27,7 +27,7 @@ class Solution:
 
 **Bug:** only checks if each character *exists* in `t`, not how many times it appears. So `"aacc"` vs `"ccac"` incorrectly passes as `True`, because every character in `s` does appear somewhere in `t` — even though the counts don't match.
 
-![Trial 1 - Wrong Answer](Valid%20Anagram/Images/Trial1.png)
+![Trial 1 - Wrong Answer](Images/Trial1.png)
 
 ---
 
