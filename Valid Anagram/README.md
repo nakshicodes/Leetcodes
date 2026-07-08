@@ -58,7 +58,7 @@ class Solution:
 
 **Remaining bug:** fails on `"anagtam"` vs `"nbgbram"` — checking count-equality per character one at a time, while returning early on any single mismatch, isn't quite the same as verifying the *entire* multiset of letters matches. Also still doesn't handle empty strings as anagrams correctly.
 
-![Trial 2 - Wrong Answer](Valid%20Anagram/Images/Trial2.png)
+![Trial 2 - Wrong Answer](Images/Trial2.png)
 
 ---
 
@@ -97,7 +97,7 @@ class Solution:
 
 **Result:** 55/55 test cases passed, 11 ms runtime.
 
-![Working Solution 1 - Accepted](Valid%20Anagram/Images/WorkingSoln1.png)
+![Working Solution 1 - Accepted](Images/WorkingSoln1.png)
 
 ---
 
@@ -115,8 +115,8 @@ class Solution:
 
 **Result:** 55/55 test cases passed, 10 ms runtime.
 
-![Working Solutions 2 & 3 - Accepted](Valid%20Anagram/Images/WorkingSoln2.png)
-![Working Solutions 2 & 3 - Accepted](Valid%20Anagram/Images/WorkingSoln3.png)
+![Working Solutions 2 & 3 - Accepted](Images/WorkingSoln2.png)
+![Working Solutions 2 & 3 - Accepted](Images/WorkingSoln3.png)
 
 
 ---
